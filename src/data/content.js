@@ -117,7 +117,7 @@ export const education = [
   {
     school: 'Rome Business School / University of Valencia',
     degree: 'M.Sc. Data Science Management',
-    year: 'In view',
+    year: '2026',
   },
   {
     school: 'University of Lagos',
