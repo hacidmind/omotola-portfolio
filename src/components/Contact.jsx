@@ -41,8 +41,11 @@ export default function Contact() {
           <a className="btn btn-ghost" href={profile.linkedin} target="_blank" rel="noreferrer">
             LinkedIn
           </a>
-          <a className="btn btn-ghost" href={profile.site} target="_blank" rel="noreferrer">
-            Google Site
+          <a className="btn btn-ghost" href={profile.github} target="_blank" rel="noreferrer">
+            GitHub
+          </a>
+          <a className="btn btn-ghost" href={profile.medium} target="_blank" rel="noreferrer">
+            Medium
           </a>
         </div>
       </div>

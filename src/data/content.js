@@ -6,8 +6,8 @@ export const profile = {
   email: 'tolanikekereekun@gmail.com',
   phone: '+234 808 493 7582',
   linkedin: 'https://www.linkedin.com/in/tolani-kekere-ekun991a98177/',
-  site: 'https://sites.google.com/view/ramatlai/home',
-  github: 'https://github.com/',
+  medium: 'https://medium.com/@tolanikekereekun',
+  github: 'https://github.com/Tolanikeks',
   tagline: 'I turn raw data into stories that drive decisions.',
   intro:
     'Data Analyst and Analytics Instructor with 3+ years of experience transforming complex datasets into clear, actionable insights — and teaching others to do the same.',
